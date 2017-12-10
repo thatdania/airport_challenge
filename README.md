@@ -15,7 +15,7 @@ Airport Challenge [![Build Status](https://travis-ci.org/thatdania/airport_chall
 
 The task was to make our airport program based on these user stories. This was writing a control flow program for planes at an airport. Below, are the following user stories.
 
-##Task
+#Task
 
 ```
 As an air traffic controller
@@ -45,7 +45,7 @@ I would like a default airport capacity that can be overridden as appropriate
 
 What a great way to start of the first weekend challenge at Makers. I didn't get far, only up to the point of "ensuring safety to prevent take off when weather is stormy" (I attempted this test though but failed to finish). The stubs got me.
 
-##Approach
+#Approach
 
 My first thought to this problem was to imagine as if I was building a new airport. Conceptually, this helped me keep focus whilst during my venture into the tasks.
 
@@ -55,7 +55,7 @@ Given the User's feedback, I changed them into domain models to understand what 
 
 This file is known as DOMAINMODELS.md
 
-##Unit tests & Feature tests
+#Unit tests & Feature tests
 
 Speaking out what each test does for the unit test helped me understand what was needed. I split the feature tests in chronological order of what I was testing. I put the "responsive method" tests in one section and the other test action in a different section. When it came to the weather section, I manage to feature test & unit test the function of the .sample method. However, I did not get far after that.
 
