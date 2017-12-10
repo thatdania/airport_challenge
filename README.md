@@ -1,23 +1,12 @@
 Airport Challenge [![Build Status](https://travis-ci.org/thatdania/airport_challenge.svg?branch=master)](https://travis-ci.org/thatdania/airport_challenge)
 =================
 
-```
-        ______
-        _\____\___
-=  = ==(____MA____)
-          \_____\___________________,-~~~~~~~`-.._
-          /     o o o o o o o o o o o o o o o o  |\_
-          `~-.__       __..----..__                  )
-                `---~~\___________/------------`````
-                =  ===(_________)
+The task was to make our airport program based on these user stories. This was writing a control flow program for planes at an airport. Below, are the following user stories. 🛫🛬
+
+#User Stories 
 
 ```
 
-The task was to make our airport program based on these user stories. This was writing a control flow program for planes at an airport. Below, are the following user stories.
-
-#Task
-
-```
 As an air traffic controller
 So I can get passengers to a destination
 I want to instruct a plane to land at an airport
@@ -49,13 +38,13 @@ What a great way to start of the first weekend challenge at Makers. I didn't get
 
 My first thought to this problem was to imagine as if I was building a new airport. Conceptually, this helped me keep focus whilst during my venture into the tasks.
 
-Domain Models
+##Domain Models
 
 Given the User's feedback, I changed them into domain models to understand what the elements of the test were, and the test I was going to do along with its specifications.
 
 This file is known as DOMAINMODELS.md
 
-#Unit tests & Feature tests
+##Unit tests & Feature tests
 
 Speaking out what each test does for the unit test helped me understand what was needed. I split the feature tests in chronological order of what I was testing. I put the "responsive method" tests in one section and the other test action in a different section. When it came to the weather section, I manage to feature test & unit test the function of the .sample method. However, I did not get far after that.
 
