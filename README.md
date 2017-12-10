@@ -48,6 +48,6 @@ This file is known as DOMAINMODELS.md
 
 Speaking out what each test does for the unit test helped me understand what was needed. I split the feature tests in chronological order of what I was testing. I put the "responsive method" tests in one section and the other test action in a different section. When it came to the weather section, I manage to feature test & unit test the function of the .sample method. However, I did not get far after that.
 
-Support
+## Support
 
 https://github.com/thatdania/airport_challenge/blob/master/docs/review.md (Airport Challenge Code review) https://apidock.com/ruby/Array/delete_at (How to delete from an array) https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/type-matchers (Using to_be_an_instance_of) https://ruby-doc.org/core-2.2.0/Array.html#method-i-sample (How to do a random generator) https://www.rubypigeon.com/posts/rspec-core-cheat-sheet/ (The idea of let in unit tests)
